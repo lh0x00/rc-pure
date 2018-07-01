@@ -42,7 +42,11 @@ const config = {
 
 const Component = ({ name = 'Hieu' }) => (<div>hello, {name}</div>)
 
+// with config
 const Pure = pure(config)(Component)
+
+// simple
+const Pure = pure()(Component)
 ```
 
 # documents
