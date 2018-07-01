@@ -1,6 +1,6 @@
 {
   "name": "rc-pure",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "a react package that improves render performance by reducing re-render component, fast and easy use!",
   "main": "dist/index.js",
   "scripts": {
@@ -25,6 +25,10 @@
   ],
   "author": "Lam Hieu <lamhieu.vk@gmail.com>",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lamhieu-vk/rc-pure.git"
+  },
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^8.2.3",
