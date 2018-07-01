@@ -55,7 +55,7 @@ const Pure = pure()(Component)
 
 | name      	| type   	| description                                                                                                            |
 |-----------	|--------	|------------------------------------------------------------------------------------------------------------------------|
-| compare    	| Func   	| (optional) the function used to calculate the change value. default: `lodash.isEuqal`                                  |
+| compare    	| Func   	| (optional) the function used to calculate the change value. default: `lodash.isEqual`                                  |
 | updateByKeys| Array	  | (optional) Only update when these values change. default: `undefined`                                                  |
 
 [npm-url]: https://npmjs.org/package/rc-pure

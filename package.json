@@ -1,6 +1,6 @@
 {
   "name": "rc-pure",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "a react package that improves render performance by reducing re-render component, fast and easy use!",
   "main": "dist/index.js",
   "scripts": {
