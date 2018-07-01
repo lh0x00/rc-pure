@@ -1,0 +1,13 @@
+/* eslint-disable no-unused-vars */
+
+type TProps = { [key: string]: any }
+
+type TConfig = {
+  updateByKeys?: [String],
+  compare?: Function,
+}
+
+type THandlerData ={
+  prev: TProps,
+  next: TProps,
+}
