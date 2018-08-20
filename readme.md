@@ -1,5 +1,7 @@
 # rc-pure
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lamhieu-vk/rc-pure.svg)](https://greenkeeper.io/)
+
 [![npm version][npm-version-image]][npm-url]
 [![npm downloads][npm-downloads-image]][npm-url]
 [![github issues][github-issues-image]][github-issues-url]
