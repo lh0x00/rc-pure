@@ -1,10 +1,10 @@
 # rc-pure
 
-[![Greenkeeper badge](https://badges.greenkeeper.io/lamhieu-vk/rc-pure.svg)](https://greenkeeper.io/)
-
 [![npm version][npm-version-image]][npm-url]
 [![npm downloads][npm-downloads-image]][npm-url]
 [![github issues][github-issues-image]][github-issues-url]
+[![greenkeeper status][greenkeeper-image]](https://greenkeeper.io)
+
 
 a react package that improves render performance by reducing re-render component, fast and easy use!
 
@@ -56,3 +56,4 @@ const Pure = pure()(Component)
 [npm-downloads-image]: https://img.shields.io/npm/dm/rc-pure.svg
 [github-issues-image]: https://img.shields.io/github/issues/lamhieu-vk/rc-pure.svg
 [github-issues-url]: https://github.com/lamhieu-vk/rc-pure/issues
+[greenkeeper-image]: https://badges.greenkeeper.io/lamhieu-vk/rc-pure.svg
