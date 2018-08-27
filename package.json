@@ -1,6 +1,6 @@
 {
   "name": "rc-pure",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "description": "a react package that improves render performance by reducing re-render component, fast and easy use!",
   "main": "dist/index.js",
   "scripts": {
@@ -52,6 +52,6 @@
   },
   "dependencies": {
     "lodash.isequal": "^4.5.0",
-    "rc-pure-component": "^0.1.5"
+    "rc-pure-component": "^0.2.0"
   }
 }

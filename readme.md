@@ -8,15 +8,6 @@
 
 a react package that improves render performance by reducing re-render component, fast and easy use!
 
-### require
-
-```json
-{
-  "react": "^15.0.0",
-  "react-dom": "^15.0.0"
-}
-```
-
 ### reference
 
 #### rc-pure-component
