@@ -48,7 +48,7 @@
     "eslint-plugin-react": "^7.8.2",
     "flow": "^0.2.3",
     "flow-bin": "^0.80.0",
-    "rimraf": "^2.6.2"
+    "rimraf": "^2.6.3"
   },
   "dependencies": {
     "lodash.isequal": "^4.5.0",
